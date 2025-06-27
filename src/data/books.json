@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "description": "A young shepherd named Santiago travels in search of a worldly treasure, learning about destiny and dreams.",
+    "rating": 0.0
+  },
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "description": "A novel about racial injustice and moral growth in the Deep South, seen through the eyes of young Scout.",
+    "rating": 0.0
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "author": "George Orwell",
+    "description": "A dystopian tale of totalitarian surveillance and control in a society where independent thought is suppressed.",
+    "rating": 0.0
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "description": "A classic romantic novel about Elizabeth Bennet and Mr. Darcy navigating love, class, and social expectations.",
+    "rating": 0.0
+  },
+  {
+    "id": 5,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "description": "A story of wealth, love, and illusion set in the Roaring Twenties, centering on the enigmatic Jay Gatsby.",
+    "rating": 0.0
+  },
+  {
+    "id": 6,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "description": "A rebellious teenager, Holden Caulfield, narrates his journey through alienation and identity in New York City.",
+    "rating": 0.0
+  },
+  {
+    "id": 7,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "description": "The first book in the series, where young wizard Harry Potter discovers his magical heritage and attends Hogwarts.",
+    "rating": 0.0
+  },
+  {
+    "id": 8,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "description": "Bilbo Baggins embarks on an epic quest to help dwarves reclaim their homeland from the dragon Smaug.",
+    "rating": 0.0
+  },
+  {
+    "id": 9,
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "description": "A young girl in Nazi Germany steals books and shares them, narrated by Death itself.",
+    "rating": 0.0
+  },
+  {
+    "id": 10,
+    "title": "Life of Pi",
+    "author": "Yann Martel",
+    "description": "A boy survives a shipwreck in a lifeboat with a Bengal tiger, exploring faith, survival, and storytelling.",
+    "rating": 0.0
+  }
+]
